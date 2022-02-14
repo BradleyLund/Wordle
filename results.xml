@@ -1,0 +1,3486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultList status="complete">
+<IOFVersion version="2.0.3"/>
+<Event eventForm="IndSingleDay">
+<EventId>20211011</EventId>
+<Name>TEST</Name>
+<EventClassificationId/>
+<StartDate>
+<Date dateFormat="YYYY-MM-DD">2021-10-11</Date>
+</StartDate>
+</Event>
+<ClassResult>
+<ClassShortName>JB</ClassShortName>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>van Kraayenburg</Family>
+<Given sequence="1">Wanru</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100133</StartNumber>
+<CCardId>100133</CCardId>
+<Time timeFormat="HH:MM:SS">00:11:48                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:37                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:07                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:17                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:27                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:41                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:36                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:15                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:02                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:42                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:44                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:56                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:05                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:26                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:00                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:17                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:07                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:48                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Engelbrecht</Family>
+<Given sequence="1">Ruan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100103</StartNumber>
+<CCardId>100103</CCardId>
+<Time timeFormat="HH:MM:SS">00:12:11                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:38                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:04                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:15                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:17                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:32                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:30                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:58                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:48                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:24                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:39                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:53                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:47                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:54                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:29                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:55                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:34                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:11                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Du Toit</Family>
+<Given sequence="1">Michael</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Rand Park High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100214</StartNumber>
+<CCardId>100214</CCardId>
+<Time timeFormat="HH:MM:SS">00:12:32                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:34                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:14                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:16                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:30                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:42                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:52                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:31                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:08                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:50                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:54                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:02                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:01                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:18                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:59                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:27                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:11                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:32                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Gessau</Family>
+<Given sequence="1">Caleb</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Northcliff</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100208</StartNumber>
+<CCardId>100208</CCardId>
+<Time timeFormat="HH:MM:SS">00:12:58                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:39                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:11                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:11                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:18                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:32                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:28                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:07                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:56                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:51                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:56                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:44                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:50                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:13                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:07                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:40                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:22                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:58                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Pretorius</Family>
+<Given sequence="1">Kellen</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100043</StartNumber>
+<CCardId>100043</CCardId>
+<Time timeFormat="HH:MM:SS">00:13:05                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:30                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:59                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:31                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:35                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:52                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:58                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:32                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:13                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:46                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:51                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:56                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:01                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:30                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:11                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:38                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:28                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:05                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Strydom</Family>
+<Given sequence="1">Hano</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100129</StartNumber>
+<CCardId>100129</CCardId>
+<Time timeFormat="HH:MM:SS">00:13:14                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:59                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:32                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:35                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:46                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:03                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:11                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:38                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:27                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:18                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:24                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:58                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:22                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:56                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:29                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:46                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:33                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:14                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Babcock</Family>
+<Given sequence="1">Tristan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100147</StartNumber>
+<CCardId>100147</CCardId>
+<Time timeFormat="HH:MM:SS">00:13:25                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:38                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:09                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:18                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:32                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:46                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:41                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:12                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:03                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:45                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:48                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:43                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:54                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:34                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:13                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:50                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:46                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:25                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ntshabele</Family>
+<Given sequence="1">Tumelo</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100042</StartNumber>
+<CCardId>100042</CCardId>
+<Time timeFormat="HH:MM:SS">00:13:42                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:36                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:08                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:15                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:21                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:28                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:36                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:30                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:15                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:03                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:08                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:25                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:29                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:09                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:50                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:16                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:03                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:42                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Peers</Family>
+<Given sequence="1">Gareth</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100144</StartNumber>
+<CCardId>100144</CCardId>
+<Time timeFormat="HH:MM:SS">00:14:13                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:32                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:08                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:10                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:24                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:43                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:43                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:14                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:06                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:51                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:55                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:12                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:28                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:52                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:36                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:08                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:52                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:13                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Basson</Family>
+<Given sequence="1">JandrÃ©</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100095</StartNumber>
+<CCardId>100095</CCardId>
+<Time timeFormat="HH:MM:SS">00:14:14                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:32                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:06                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:12                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:22                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:38                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:41                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:55                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:08                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:53                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:55                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:40                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:45                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:15                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:42                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:10                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:53                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:14                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Quitata</Family>
+<Given sequence="1">Daniel</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100145</StartNumber>
+<CCardId>100145</CCardId>
+<Time timeFormat="HH:MM:SS">00:14:38                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:43                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:23                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:36                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:49                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:10                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:32                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:01                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:44                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:34                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:39                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:34                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:50                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:11                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:59                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:16                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:03                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:38                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>de Klerk</Family>
+<Given sequence="1">Marcel</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100281</StartNumber>
+<CCardId>100281</CCardId>
+<Time timeFormat="HH:MM:SS">00:15:02                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:05                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:36                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:23                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:31                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:53                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:52                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:19                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:21                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:12                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:38                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:59                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:11                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:07                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:47                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:21                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:22                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:02                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Coetzer</Family>
+<Given sequence="1">Michael</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100148</StartNumber>
+<CCardId>100148</CCardId>
+<Time timeFormat="HH:MM:SS">00:15:10                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:50                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:25                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:32                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:42                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:58                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:16                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:53                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:40                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:25                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:27                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:35                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:01                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:34                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:19                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:37                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:31                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:10                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Heymans</Family>
+<Given sequence="1">Jan-Hendrik</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100111</StartNumber>
+<CCardId>100111</CCardId>
+<Time timeFormat="HH:MM:SS">00:15:11                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:40                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:08                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:11                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:18                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:54                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:47                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:10                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:27                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:02                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:10                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:24                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:27                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:35                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:11                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:35                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:30                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:11                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Roos </Family>
+<Given sequence="1">DaniÃ«l </Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100124</StartNumber>
+<CCardId>100124</CCardId>
+<Time timeFormat="HH:MM:SS">00:16:47                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:38                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:09                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:36                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:51                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:16                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:15                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:52                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:16                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:57                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:00                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:16                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:27                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:04                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:47                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:20                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:25                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:47                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Modisakeng</Family>
+<Given sequence="1">Phawo</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Pinnacle Prep</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100272</StartNumber>
+<CCardId>100272</CCardId>
+<Time timeFormat="HH:MM:SS">00:17:08                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:53                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:45                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:16                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:34                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:03                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:18                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:04                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:36                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:44                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:59                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:03                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:10                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:31                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:14                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:41                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:35                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:08                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Hutton</Family>
+<Given sequence="1">Dylan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100154</StartNumber>
+<CCardId>100154</CCardId>
+<Time timeFormat="HH:MM:SS">00:17:35                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:38                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:09                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:10                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:16                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:28                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:27                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:10                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:52                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:33                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:34                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:51                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:41                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:55                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:42                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:03                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:57                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:35                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Machin</Family>
+<Given sequence="1">Stephen</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100146</StartNumber>
+<CCardId>100146</CCardId>
+<Time timeFormat="HH:MM:SS">00:19:43                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:45                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:44                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:55                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:44                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:07                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:29                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:50                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:50                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:59                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:32                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:42                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:38                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:16                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:02                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:51                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:01                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:43                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Toop</Family>
+<Given sequence="1">Christopher</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100153</StartNumber>
+<CCardId>100153</CCardId>
+<Time timeFormat="HH:MM:SS">00:19:48                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:53                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:25                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:29                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:37                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:50                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:47                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:47                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:33                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:41                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:24                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:36                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:45                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:16                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:03                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:34                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:07                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:48                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Blyth</Family>
+<Given sequence="1">Ryan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100037</StartNumber>
+<CCardId>100037</CCardId>
+<Time timeFormat="HH:MM:SS">00:22:04                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:43                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:32                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:38                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:52                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:47                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:42                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:34                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:07                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:18                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:29                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:53                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:48                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:12                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:43                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:29                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:20                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:04                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Symons</Family>
+<Given sequence="1">Awande</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Charter College</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100068</StartNumber>
+<CCardId>100068</CCardId>
+<Time timeFormat="HH:MM:SS">00:22:08                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:45                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:24                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:47                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:04                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:23                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:32                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:21                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:00                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:01                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:10                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:09                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:44                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:07                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:25                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:15                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:26                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:08                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Martin</Family>
+<Given sequence="1">Sean</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100155</StartNumber>
+<CCardId>100155</CCardId>
+<Time timeFormat="HH:MM:SS">00:22:21                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:28                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:14                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:00                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:59                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:58                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:44                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:22                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:49                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:01                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:02                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:54                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:13                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:07                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:04                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:50                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:40                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:21                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Eichhober</Family>
+<Given sequence="1">James</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100151</StartNumber>
+<CCardId>100151</CCardId>
+<Time timeFormat="HH:MM:SS">00:22:31                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:53                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:35                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:50                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:25                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:16                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:24                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:55                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:02                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:09                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:28                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:15                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:02                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:03                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:05                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:33                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:46                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:31                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Britz</Family>
+<Given sequence="1">Gian</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100097</StartNumber>
+<CCardId>100097</CCardId>
+<Time timeFormat="HH:MM:SS">00:22:34                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:06                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:37                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:38                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:58                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:50                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:55                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:45                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:36                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:25                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:46                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:08                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:17                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:45                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:32                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:15                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:15                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:34                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Visser</Family>
+<Given sequence="1">Daniel</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Northcliff</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100278</StartNumber>
+<CCardId>100278</CCardId>
+<Time timeFormat="HH:MM:SS">00:23:03                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:38                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:08                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:09                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:21                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:41                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:05                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:15                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:04                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:46                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:57                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:38                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:53                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:18                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:57                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:16                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:22                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:03                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Sali</Family>
+<Given sequence="1">Isa</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100150</StartNumber>
+<CCardId>100150</CCardId>
+<Time timeFormat="HH:MM:SS">00:23:26                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:51                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:24                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:47                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:36                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:11                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:57                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:09                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:49                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:25                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:37                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:51                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:48                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:15                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:10                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:39                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:43                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:26                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Harinarayan</Family>
+<Given sequence="1">Zehaan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100044</StartNumber>
+<CCardId>100044</CCardId>
+<Time timeFormat="HH:MM:SS">00:24:13                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:47                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:21                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:28                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:57                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:14                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:19                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:36                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:36                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:42                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:11:07                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:12                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:14                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:51                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:39                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:27                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:23                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:13                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Nobin</Family>
+<Given sequence="1">Ethan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100040</StartNumber>
+<CCardId>100040</CCardId>
+<Time timeFormat="HH:MM:SS">00:24:37                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:08                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:02                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:18                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:21                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:04                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:12                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:28                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:02                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:24                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:46                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:07                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:35                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:21                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:25                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:38                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:06                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:37                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Pienaar</Family>
+<Given sequence="1">Craig</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Fourways</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100092</StartNumber>
+<CCardId>100092</CCardId>
+<Time timeFormat="HH:MM:SS">00:24:56                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:39                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:14                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:19                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:32                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:03                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:03                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:41                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:28                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:27                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:29                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:43                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:56                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:42                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:24                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:45                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:32                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:56                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Rooseboom</Family>
+<Given sequence="1">Diaan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Helpmekaar</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100125</StartNumber>
+<CCardId>100125</CCardId>
+<Time timeFormat="HH:MM:SS">00:25:08                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:35                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:36                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:44                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:10                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:11                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:20                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:20                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:06                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:53                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:17                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:16                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:31                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:55                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:40                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:04                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:50                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:08                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Harrison</Family>
+<Given sequence="1">Jordan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Charter College</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100056</StartNumber>
+<CCardId>100056</CCardId>
+<Time timeFormat="HH:MM:SS">00:25:43                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:36                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:06                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:56                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:29                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:15                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:24                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:28                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:29                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:24                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:30                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:42                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:59                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:15                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:55                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:20                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:01                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:43                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Mogola</Family>
+<Given sequence="1">Neo</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Jeppe Boys</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100156</StartNumber>
+<CCardId>100156</CCardId>
+<Time timeFormat="HH:MM:SS">00:27:17                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:09                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:56                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:06                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:42                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:14                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:00                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:32                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:26                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:52                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:17                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:58                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:30                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:16                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:17                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:47                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:26:48                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:27:17                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Steinmetz</Family>
+<Given sequence="1">Cyrus</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Charter College</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100067</StartNumber>
+<CCardId>100067</CCardId>
+<Time timeFormat="HH:MM:SS">00:27:42                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:43                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:23                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:32                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:57                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:51                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:03                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:14:27                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:04                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:27                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:28                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:41                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:51                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:15                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:52                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:19                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:27:06                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:27:42                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ssemugabi</Family>
+<Given sequence="1">James</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Krugersdorp High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100452</StartNumber>
+<CCardId>100452</CCardId>
+<Time timeFormat="HH:MM:SS">00:28:52                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:12                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:23                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:42                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:36                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:21                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:29                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:47                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:12:43                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:38                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:07                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:19                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:24                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:26                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:46                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:26:38                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:08                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:52                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Jumani</Family>
+<Given sequence="1">Aryan</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Northcliff</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100210</StartNumber>
+<CCardId>100210</CCardId>
+<Time timeFormat="HH:MM:SS">00:29:00                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:03                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:51                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:13                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:42                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:28                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:02                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:04                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:12                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:39                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:48                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:12                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:59                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:01                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:56                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:27:00                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:25                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:29:00                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Mondo</Family>
+<Given sequence="1">George</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Bryanston High</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100038</StartNumber>
+<CCardId>100038</CCardId>
+<Time timeFormat="HH:MM:SS">00:30:59                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:00:44                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:31                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:42                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:20                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:54                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:15:10                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:06                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:27                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:22                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:26                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:39                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:25:44                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:22                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:29:06                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:29:25                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:30:30                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:30:59                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ramkhelawan</Family>
+<Given sequence="1">Kayden</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Charter College</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100065</StartNumber>
+<CCardId>100065</CCardId>
+<Time timeFormat="HH:MM:SS">00:33:22                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:04                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:45                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:55                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:08:34                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:09:22                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:48                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:30                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:17:35                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:29                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:18:43                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:21:43                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:23:06                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:26:17                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:26:55                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:37                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:31:37                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:33:22                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Correia</Family>
+<Given sequence="1">Eli</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Canterbury</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100246</StartNumber>
+<CCardId>100246</CCardId>
+<Time timeFormat="HH:MM:SS">00:36:33                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:11                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:01:59                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:03:36                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:37                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:07:59                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:10:14                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:20:31                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:22:14                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:11                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:24:47                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:26:27                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:44                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:30:29                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:31:48                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:33:20                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:35:52                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:36:33                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Zukelwa</Family>
+<Given sequence="1">Uligwiba</Given>
+</PersonName>
+<PersonId/>
+</Person>
+<Club>
+<ClubId/>
+<ShortName>Pinnacle Prep</ShortName>
+<CountryId value="other"/>
+</Club>
+<Result>
+<StartNumber>100276</StartNumber>
+<CCardId>100276</CCardId>
+<Time timeFormat="HH:MM:SS">00:39:45                      </Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>116</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:00                      </Time>
+</SplitTime>
+<SplitTime sequence="2">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:37                      </Time>
+</SplitTime>
+<SplitTime sequence="3">
+<ControlCode>117</ControlCode>
+<Time timeFormat="HH:MM:SS">00:02:41                      </Time>
+</SplitTime>
+<SplitTime sequence="4">
+<ControlCode>128</ControlCode>
+<Time timeFormat="HH:MM:SS">00:04:06                      </Time>
+</SplitTime>
+<SplitTime sequence="5">
+<ControlCode>112</ControlCode>
+<Time timeFormat="HH:MM:SS">00:05:04                      </Time>
+</SplitTime>
+<SplitTime sequence="6">
+<ControlCode>152</ControlCode>
+<Time timeFormat="HH:MM:SS">00:06:21                      </Time>
+</SplitTime>
+<SplitTime sequence="7">
+<ControlCode>111</ControlCode>
+<Time timeFormat="HH:MM:SS">00:13:38                      </Time>
+</SplitTime>
+<SplitTime sequence="8">
+<ControlCode>131</ControlCode>
+<Time timeFormat="HH:MM:SS">00:16:22                      </Time>
+</SplitTime>
+<SplitTime sequence="9">
+<ControlCode>137</ControlCode>
+<Time timeFormat="HH:MM:SS">00:19:20                      </Time>
+</SplitTime>
+<SplitTime sequence="10">
+<ControlCode>156</ControlCode>
+<Time timeFormat="HH:MM:SS">00:27:35                      </Time>
+</SplitTime>
+<SplitTime sequence="11">
+<ControlCode>141</ControlCode>
+<Time timeFormat="HH:MM:SS">00:28:42                      </Time>
+</SplitTime>
+<SplitTime sequence="12">
+<ControlCode>153</ControlCode>
+<Time timeFormat="HH:MM:SS">00:30:31                      </Time>
+</SplitTime>
+<SplitTime sequence="13">
+<ControlCode>142</ControlCode>
+<Time timeFormat="HH:MM:SS">00:32:52                      </Time>
+</SplitTime>
+<SplitTime sequence="14">
+<ControlCode>130</ControlCode>
+<Time timeFormat="HH:MM:SS">00:33:49                      </Time>
+</SplitTime>
+<SplitTime sequence="15">
+<ControlCode>157</ControlCode>
+<Time timeFormat="HH:MM:SS">00:38:04                      </Time>
+</SplitTime>
+<SplitTime sequence="16">
+<ControlCode>249</ControlCode>
+<Time timeFormat="HH:MM:SS">00:38:56                      </Time>
+</SplitTime>
+<SplitTime sequence="17">
+<ControlCode>154</ControlCode>
+<Time timeFormat="HH:MM:SS">00:39:45                      </Time>
+</SplitTime>
+</Result>
+</PersonResult>
+</ClassResult>
+</ResultList>
